@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tute92. My name is Matias and I am almost 30 years old. I was born in Argentina and I had the privilige of living in many countries, among them is Australia which is where I am at the moment. 
+- 👀 I’m interested in data, machine learning and algorithms. I have a background in Business Administration and special interest in the blockchain technology. 
+- 🌱 I’m currently learning python, R, data analisys and machine learning.
+- 💞️ I’m looking to collaborate on open projects in order to get a sense of real world problems being solve by many lines of code. 
+- 📫 If you need a learning buddy you can contact me on mendezmatias10@gmail.com
